@@ -1,0 +1,11 @@
+{
+  "name": "inbox",
+  "version": "1.0.0",
+  "description": "solidity contract",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luis D. Cortes <renaissance.scholar2012@gmail.com> (http://www.dancortes.com/)",
+  "license": "MIT"
+}
